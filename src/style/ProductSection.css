@@ -1,0 +1,13 @@
+
+.productView{
+  display: grid;
+  grid-template-rows: auto;
+}
+.product-img-div{
+  height: 250px;
+  width: 200px;
+  border: 2px solid #499F78;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+}
